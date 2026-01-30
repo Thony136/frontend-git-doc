@@ -9,6 +9,8 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "keywords": ["react", "typescript", "devops", "vite"],
+  "author": "Thony136",
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
     "axios": "^1.10.0",
